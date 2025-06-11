@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Why",
+    "startMs": 210,
+    "endMs": 220,
+    "timestampMs": 340,
+    "confidence": 0.916564
+  },
+  {
+    "text": " did",
+    "startMs": 220,
+    "endMs": 460,
+    "timestampMs": 460,
+    "confidence": 0.996158
+  },
+  {
+    "text": " the",
+    "startMs": 460,
+    "endMs": 630,
+    "timestampMs": 620,
+    "confidence": 0.987694
+  },
+  {
+    "text": " bicycle",
+    "startMs": 630,
+    "endMs": 1120,
+    "timestampMs": 880,
+    "confidence": 0.998334
+  },
+  {
+    "text": " fall",
+    "startMs": 1120,
+    "endMs": 1410,
+    "timestampMs": 1100,
+    "confidence": 0.995345
+  },
+  {
+    "text": " over?",
+    "startMs": 1410,
+    "endMs": 1920,
+    "timestampMs": 1440,
+    "confidence": 0.998365
+  },
+  {
+    "text": " Because",
+    "startMs": 1920,
+    "endMs": 2250,
+    "timestampMs": 2100,
+    "confidence": 0.994723
+  },
+  {
+    "text": " it",
+    "startMs": 2250,
+    "endMs": 2400,
+    "timestampMs": 2200,
+    "confidence": 0.896254
+  },
+  {
+    "text": " was",
+    "startMs": 2400,
+    "endMs": 2480,
+    "timestampMs": 2340,
+    "confidence": 0.998852
+  },
+  {
+    "text": " too",
+    "startMs": 2480,
+    "endMs": 2620,
+    "timestampMs": 2540,
+    "confidence": 0.997352
+  },
+  {
+    "text": " tired.",
+    "startMs": 2620,
+    "endMs": 3020,
+    "timestampMs": 3000,
+    "confidence": 0.999317
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Download",
+    "startMs": 240,
+    "endMs": 410,
+    "timestampMs": 520,
+    "confidence": 0.938724
+  },
+  {
+    "text": " the",
+    "startMs": 410,
+    "endMs": 540,
+    "timestampMs": 720,
+    "confidence": 0.99296
+  },
+  {
+    "text": " reactive",
+    "startMs": 540,
+    "endMs": 980,
+    "timestampMs": 1020,
+    "confidence": 0.918941
+  },
+  {
+    "text": " tools",
+    "startMs": 980,
+    "endMs": 1230,
+    "timestampMs": 1360,
+    "confidence": 0.996261
+  },
+  {
+    "text": " for",
+    "startMs": 1230,
+    "endMs": 1430,
+    "timestampMs": 1540,
+    "confidence": 0.997813
+  },
+  {
+    "text": " a",
+    "startMs": 1430,
+    "endMs": 1470,
+    "timestampMs": 1680,
+    "confidence": 0.989806
+  },
+  {
+    "text": " better",
+    "startMs": 1470,
+    "endMs": 1740,
+    "timestampMs": 1840,
+    "confidence": 0.998799
+  },
+  {
+    "text": " development",
+    "startMs": 1740,
+    "endMs": 2310,
+    "timestampMs": 2280,
+    "confidence": 0.996023
+  },
+  {
+    "text": " experience.",
+    "startMs": 2310,
+    "endMs": 3020,
+    "timestampMs": 2860,
+    "confidence": 0.999283
+  }
+]

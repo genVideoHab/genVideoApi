@@ -1,0 +1,93 @@
+[
+  {
+    "text": "Why",
+    "startMs": 180,
+    "endMs": 190,
+    "timestampMs": 340,
+    "confidence": 0.937496
+  },
+  {
+    "text": " did",
+    "startMs": 190,
+    "endMs": 370,
+    "timestampMs": 500,
+    "confidence": 0.979892
+  },
+  {
+    "text": " the",
+    "startMs": 370,
+    "endMs": 540,
+    "timestampMs": 680,
+    "confidence": 0.920851
+  },
+  {
+    "text": " math",
+    "startMs": 540,
+    "endMs": 850,
+    "timestampMs": 760,
+    "confidence": 0.947096
+  },
+  {
+    "text": " book",
+    "startMs": 850,
+    "endMs": 1040,
+    "timestampMs": 980,
+    "confidence": 0.986756
+  },
+  {
+    "text": " look",
+    "startMs": 1040,
+    "endMs": 1300,
+    "timestampMs": 1220,
+    "confidence": 0.938432
+  },
+  {
+    "text": " sad?",
+    "startMs": 1300,
+    "endMs": 1700,
+    "timestampMs": 1540,
+    "confidence": 0.994715
+  },
+  {
+    "text": " Because",
+    "startMs": 1700,
+    "endMs": 2210,
+    "timestampMs": 2120,
+    "confidence": 0.984782
+  },
+  {
+    "text": " it",
+    "startMs": 2210,
+    "endMs": 2350,
+    "timestampMs": 2300,
+    "confidence": 0.990425
+  },
+  {
+    "text": " had",
+    "startMs": 2350,
+    "endMs": 2570,
+    "timestampMs": 2440,
+    "confidence": 0.991749
+  },
+  {
+    "text": " too",
+    "startMs": 2570,
+    "endMs": 2850,
+    "timestampMs": 2600,
+    "confidence": 0.992191
+  },
+  {
+    "text": " many",
+    "startMs": 2850,
+    "endMs": 3080,
+    "timestampMs": 2800,
+    "confidence": 0.999397
+  },
+  {
+    "text": " problems.",
+    "startMs": 3080,
+    "endMs": 3700,
+    "timestampMs": 3320,
+    "confidence": 0.998864
+  }
+]

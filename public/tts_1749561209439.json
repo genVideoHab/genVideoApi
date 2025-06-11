@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Download",
+    "startMs": 220,
+    "endMs": 560,
+    "timestampMs": 500,
+    "confidence": 0.965046
+  },
+  {
+    "text": " the",
+    "startMs": 560,
+    "endMs": 740,
+    "timestampMs": 680,
+    "confidence": 0.987215
+  },
+  {
+    "text": " React",
+    "startMs": 740,
+    "endMs": 1080,
+    "timestampMs": 940,
+    "confidence": 0.812895
+  },
+  {
+    "text": " DevTools",
+    "startMs": 1080,
+    "endMs": 1710,
+    "timestampMs": 1180,
+    "confidence": 0.672013
+  },
+  {
+    "text": " for",
+    "startMs": 1710,
+    "endMs": 1830,
+    "timestampMs": 1880,
+    "confidence": 0.972763
+  },
+  {
+    "text": " a",
+    "startMs": 1830,
+    "endMs": 1890,
+    "timestampMs": 2060,
+    "confidence": 0.988795
+  },
+  {
+    "text": " better",
+    "startMs": 1890,
+    "endMs": 2270,
+    "timestampMs": 2300,
+    "confidence": 0.957998
+  },
+  {
+    "text": " development",
+    "startMs": 2270,
+    "endMs": 2970,
+    "timestampMs": 2900,
+    "confidence": 0.932357
+  },
+  {
+    "text": " expert.",
+    "startMs": 2970,
+    "endMs": 3540,
+    "timestampMs": 3300,
+    "confidence": 0.973068
+  }
+]

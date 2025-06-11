@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Download",
+    "startMs": 220,
+    "endMs": 500,
+    "timestampMs": 480,
+    "confidence": 0.982019
+  },
+  {
+    "text": " the",
+    "startMs": 500,
+    "endMs": 680,
+    "timestampMs": 700,
+    "confidence": 0.969133
+  },
+  {
+    "text": " React",
+    "startMs": 680,
+    "endMs": 1030,
+    "timestampMs": 960,
+    "confidence": 0.857727
+  },
+  {
+    "text": " dev",
+    "startMs": 1030,
+    "endMs": 1260,
+    "timestampMs": 1180,
+    "confidence": 0.546697
+  },
+  {
+    "text": " tools.",
+    "startMs": 1260,
+    "endMs": 1700,
+    "timestampMs": 1560,
+    "confidence": 0.968259
+  }
+]

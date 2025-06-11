@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Download",
+    "startMs": 240,
+    "endMs": 560,
+    "timestampMs": 580,
+    "confidence": 0.973933
+  },
+  {
+    "text": " the",
+    "startMs": 560,
+    "endMs": 770,
+    "timestampMs": 920,
+    "confidence": 0.991673
+  },
+  {
+    "text": " React",
+    "startMs": 770,
+    "endMs": 1120,
+    "timestampMs": 1240,
+    "confidence": 0.867386
+  },
+  {
+    "text": " to",
+    "startMs": 1120,
+    "endMs": 1280,
+    "timestampMs": 1400,
+    "confidence": 0.60708
+  },
+  {
+    "text": " DevTools",
+    "startMs": 1280,
+    "endMs": 1980,
+    "timestampMs": 1520,
+    "confidence": 0.781421
+  },
+  {
+    "text": " for",
+    "startMs": 1980,
+    "endMs": 2040,
+    "timestampMs": 2140,
+    "confidence": 0.947874
+  },
+  {
+    "text": " a",
+    "startMs": 2040,
+    "endMs": 2110,
+    "timestampMs": 2340,
+    "confidence": 0.987547
+  },
+  {
+    "text": " better",
+    "startMs": 2110,
+    "endMs": 2520,
+    "timestampMs": 2540,
+    "confidence": 0.936027
+  },
+  {
+    "text": " development",
+    "startMs": 2520,
+    "endMs": 3310,
+    "timestampMs": 3040,
+    "confidence": 0.996333
+  },
+  {
+    "text": " experience.",
+    "startMs": 3310,
+    "endMs": 4080,
+    "timestampMs": 3700,
+    "confidence": 0.994991
+  }
+]

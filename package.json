@@ -1,0 +1,31 @@
+{
+  "name": "gen_audio_api",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.14.4",
+    "@remotion/animation-utils": "4.0.314",
+    "@remotion/cli": "4.0.314",
+    "@remotion/install-whisper-cpp": "^4.0.314",
+    "@remotion/layout-utils": "4.0.314",
+    "@remotion/media-utils": "4.0.314",
+    "@remotion/tailwind-v4": "4.0.314",
+    "@remotion/zod-types": "4.0.314",
+    "@types/uuid": "^10.0.0",
+    "hono": "^4.7.11",
+    "remotion": "^4.0.314",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@remotion/captions": "4.0.314",
+    "@remotion/eslint-config-flat": "4.0.314",
+    "@remotion/install-whisper-cpp": "4.0.314",
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3"
+  }
+}

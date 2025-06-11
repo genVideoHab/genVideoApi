@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hello",
+    "startMs": 240,
+    "endMs": 400,
+    "timestampMs": 420,
+    "confidence": 0.934262
+  },
+  {
+    "text": " world,",
+    "startMs": 400,
+    "endMs": 1180,
+    "timestampMs": 700,
+    "confidence": 0.707751
+  },
+  {
+    "text": " goodbye",
+    "startMs": 1180,
+    "endMs": 1420,
+    "timestampMs": 1380,
+    "confidence": 0.863262
+  },
+  {
+    "text": " world.",
+    "startMs": 1420,
+    "endMs": 1840,
+    "timestampMs": 1820,
+    "confidence": 0.991544
+  }
+]

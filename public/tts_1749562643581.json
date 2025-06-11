@@ -1,0 +1,121 @@
+[
+  {
+    "text": "Inside",
+    "startMs": 200,
+    "endMs": 450,
+    "timestampMs": 600,
+    "confidence": 0.974773
+  },
+  {
+    "text": " the",
+    "startMs": 450,
+    "endMs": 620,
+    "timestampMs": 800,
+    "confidence": 0.954003
+  },
+  {
+    "text": " callback",
+    "startMs": 620,
+    "endMs": 1190,
+    "timestampMs": 1000,
+    "confidence": 0.831531
+  },
+  {
+    "text": " function,",
+    "startMs": 1190,
+    "endMs": 1920,
+    "timestampMs": 1520,
+    "confidence": 0.99822
+  },
+  {
+    "text": " the",
+    "startMs": 1920,
+    "endMs": 2180,
+    "timestampMs": 2120,
+    "confidence": 0.999378
+  },
+  {
+    "text": " value",
+    "startMs": 2180,
+    "endMs": 2610,
+    "timestampMs": 2540,
+    "confidence": 0.999504
+  },
+  {
+    "text": " of",
+    "startMs": 2610,
+    "endMs": 2780,
+    "timestampMs": 2880,
+    "confidence": 0.996774
+  },
+  {
+    "text": " f",
+    "startMs": 2780,
+    "endMs": 2970,
+    "timestampMs": 3160,
+    "confidence": 0.830875
+  },
+  {
+    "text": " starts",
+    "startMs": 2970,
+    "endMs": 3400,
+    "timestampMs": 3560,
+    "confidence": 0.988553
+  },
+  {
+    "text": " always",
+    "startMs": 3400,
+    "endMs": 3930,
+    "timestampMs": 4000,
+    "confidence": 0.997073
+  },
+  {
+    "text": " zero",
+    "startMs": 3930,
+    "endMs": 4320,
+    "timestampMs": 4320,
+    "confidence": 0.50224
+  },
+  {
+    "text": " when",
+    "startMs": 4320,
+    "endMs": 4550,
+    "timestampMs": 4580,
+    "confidence": 0.977886
+  },
+  {
+    "text": " the",
+    "startMs": 4550,
+    "endMs": 4760,
+    "timestampMs": 4780,
+    "confidence": 0.99782
+  },
+  {
+    "text": " audio",
+    "startMs": 4760,
+    "endMs": 5000,
+    "timestampMs": 5040,
+    "confidence": 0.999115
+  },
+  {
+    "text": " begins",
+    "startMs": 5000,
+    "endMs": 5340,
+    "timestampMs": 5340,
+    "confidence": 0.997387
+  },
+  {
+    "text": " to",
+    "startMs": 5340,
+    "endMs": 5450,
+    "timestampMs": 5520,
+    "confidence": 0.999207
+  },
+  {
+    "text": " play.",
+    "startMs": 5450,
+    "endMs": 5880,
+    "timestampMs": 5780,
+    "confidence": 0.999443
+  }
+]

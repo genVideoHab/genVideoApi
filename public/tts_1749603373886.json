@@ -1,0 +1,149 @@
+[
+  {
+    "text": "We",
+    "startMs": 60,
+    "endMs": 220,
+    "timestampMs": 320,
+    "confidence": 0.910441
+  },
+  {
+    "text": " recommend",
+    "startMs": 220,
+    "endMs": 500,
+    "timestampMs": 580,
+    "confidence": 0.998471
+  },
+  {
+    "text": " the",
+    "startMs": 500,
+    "endMs": 630,
+    "timestampMs": 760,
+    "confidence": 0.993684
+  },
+  {
+    "text": " following",
+    "startMs": 630,
+    "endMs": 1040,
+    "timestampMs": 1020,
+    "confidence": 0.999165
+  },
+  {
+    "text": " structure",
+    "startMs": 1040,
+    "endMs": 1450,
+    "timestampMs": 1400,
+    "confidence": 0.984149
+  },
+  {
+    "text": " for",
+    "startMs": 1450,
+    "endMs": 1620,
+    "timestampMs": 1660,
+    "confidence": 0.996972
+  },
+  {
+    "text": " your",
+    "startMs": 1620,
+    "endMs": 1870,
+    "timestampMs": 1840,
+    "confidence": 0.979326
+  },
+  {
+    "text": " Dockerfile.",
+    "startMs": 1870,
+    "endMs": 2720,
+    "timestampMs": 2040,
+    "confidence": 0.870028
+  },
+  {
+    "text": " Read",
+    "startMs": 2720,
+    "endMs": 3010,
+    "timestampMs": 2860,
+    "confidence": 0.997716
+  },
+  {
+    "text": " below",
+    "startMs": 3010,
+    "endMs": 3630,
+    "timestampMs": 3220,
+    "confidence": 0.996892
+  },
+  {
+    "text": " about",
+    "startMs": 3630,
+    "endMs": 3740,
+    "timestampMs": 3880,
+    "confidence": 0.96583
+  },
+  {
+    "text": " the",
+    "startMs": 3740,
+    "endMs": 3930,
+    "timestampMs": 4060,
+    "confidence": 0.981538
+  },
+  {
+    "text": " individual",
+    "startMs": 3930,
+    "endMs": 4670,
+    "timestampMs": 4380,
+    "confidence": 0.998498
+  },
+  {
+    "text": " steps",
+    "startMs": 4670,
+    "endMs": 5070,
+    "timestampMs": 4780,
+    "confidence": 0.992087
+  },
+  {
+    "text": " and",
+    "startMs": 5070,
+    "endMs": 5280,
+    "timestampMs": 5260,
+    "confidence": 0.847783
+  },
+  {
+    "text": " whether",
+    "startMs": 5280,
+    "endMs": 5550,
+    "timestampMs": 5460,
+    "confidence": 0.958272
+  },
+  {
+    "text": " you",
+    "startMs": 5550,
+    "endMs": 5660,
+    "timestampMs": 5600,
+    "confidence": 0.998955
+  },
+  {
+    "text": " need",
+    "startMs": 5660,
+    "endMs": 5810,
+    "timestampMs": 5720,
+    "confidence": 0.999127
+  },
+  {
+    "text": " to",
+    "startMs": 5810,
+    "endMs": 5870,
+    "timestampMs": 5840,
+    "confidence": 0.999367
+  },
+  {
+    "text": " adjust",
+    "startMs": 5870,
+    "endMs": 6160,
+    "timestampMs": 6100,
+    "confidence": 0.997569
+  },
+  {
+    "text": " them.",
+    "startMs": 6160,
+    "endMs": 6320,
+    "timestampMs": 6300,
+    "confidence": 0.998841
+  }
+]

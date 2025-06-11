@@ -1,0 +1,205 @@
+[
+  {
+    "text": "Start",
+    "startMs": 300,
+    "endMs": 330,
+    "timestampMs": 460,
+    "confidence": 0.96145
+  },
+  {
+    "text": " by",
+    "startMs": 330,
+    "endMs": 460,
+    "timestampMs": 780,
+    "confidence": 0.999096
+  },
+  {
+    "text": " selecting",
+    "startMs": 460,
+    "endMs": 1060,
+    "timestampMs": 1220,
+    "confidence": 0.999287
+  },
+  {
+    "text": " your",
+    "startMs": 1060,
+    "endMs": 1330,
+    "timestampMs": 1460,
+    "confidence": 0.998114
+  },
+  {
+    "text": " framework",
+    "startMs": 1330,
+    "endMs": 1920,
+    "timestampMs": 1800,
+    "confidence": 0.977484
+  },
+  {
+    "text": " of",
+    "startMs": 1920,
+    "endMs": 2130,
+    "timestampMs": 2080,
+    "confidence": 0.998727
+  },
+  {
+    "text": " choice.",
+    "startMs": 2130,
+    "endMs": 2700,
+    "timestampMs": 2500,
+    "confidence": 0.999028
+  },
+  {
+    "text": " Then",
+    "startMs": 2700,
+    "endMs": 2940,
+    "timestampMs": 3120,
+    "confidence": 0.995551
+  },
+  {
+    "text": " follow",
+    "startMs": 2940,
+    "endMs": 3210,
+    "timestampMs": 3360,
+    "confidence": 0.802334
+  },
+  {
+    "text": " the",
+    "startMs": 3210,
+    "endMs": 3310,
+    "timestampMs": 3520,
+    "confidence": 0.998986
+  },
+  {
+    "text": " instructions",
+    "startMs": 3310,
+    "endMs": 3880,
+    "timestampMs": 3840,
+    "confidence": 0.997113
+  },
+  {
+    "text": " to",
+    "startMs": 3880,
+    "endMs": 4000,
+    "timestampMs": 4060,
+    "confidence": 0.99107
+  },
+  {
+    "text": " install",
+    "startMs": 4000,
+    "endMs": 4320,
+    "timestampMs": 4320,
+    "confidence": 0.97268
+  },
+  {
+    "text": " the",
+    "startMs": 4320,
+    "endMs": 4460,
+    "timestampMs": 4480,
+    "confidence": 0.956125
+  },
+  {
+    "text": " dependencies",
+    "startMs": 4460,
+    "endMs": 4900,
+    "timestampMs": 4900,
+    "confidence": 0.991023
+  },
+  {
+    "text": " and",
+    "startMs": 4900,
+    "endMs": 5190,
+    "timestampMs": 5200,
+    "confidence": 0.933433
+  },
+  {
+    "text": " structure",
+    "startMs": 5190,
+    "endMs": 5560,
+    "timestampMs": 5500,
+    "confidence": 0.827879
+  },
+  {
+    "text": " your",
+    "startMs": 5560,
+    "endMs": 5730,
+    "timestampMs": 5700,
+    "confidence": 0.993176
+  },
+  {
+    "text": " app.",
+    "startMs": 5730,
+    "endMs": 6000,
+    "timestampMs": 5920,
+    "confidence": 0.985028
+  },
+  {
+    "text": " Shatkin",
+    "startMs": 6000,
+    "endMs": 6520,
+    "timestampMs": 6440,
+    "confidence": 0.131363
+  },
+  {
+    "text": " UI",
+    "startMs": 6520,
+    "endMs": 6670,
+    "timestampMs": 6800,
+    "confidence": 0.940374
+  },
+  {
+    "text": " is",
+    "startMs": 6670,
+    "endMs": 6820,
+    "timestampMs": 7120,
+    "confidence": 0.995786
+  },
+  {
+    "text": " built",
+    "startMs": 6820,
+    "endMs": 7220,
+    "timestampMs": 7400,
+    "confidence": 0.979144
+  },
+  {
+    "text": " to",
+    "startMs": 7220,
+    "endMs": 7350,
+    "timestampMs": 7660,
+    "confidence": 0.999363
+  },
+  {
+    "text": " work",
+    "startMs": 7350,
+    "endMs": 7650,
+    "timestampMs": 7840,
+    "confidence": 0.999367
+  },
+  {
+    "text": " with",
+    "startMs": 7650,
+    "endMs": 7950,
+    "timestampMs": 8100,
+    "confidence": 0.999127
+  },
+  {
+    "text": " all",
+    "startMs": 7950,
+    "endMs": 8230,
+    "timestampMs": 8520,
+    "confidence": 0.996299
+  },
+  {
+    "text": " React",
+    "startMs": 8230,
+    "endMs": 8560,
+    "timestampMs": 8860,
+    "confidence": 0.901929
+  },
+  {
+    "text": " frameworks.",
+    "startMs": 8560,
+    "endMs": 9600,
+    "timestampMs": 9340,
+    "confidence": 0.985748
+  }
+]
